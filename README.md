@@ -9,3 +9,7 @@ Link: https://github.com/mantassapa/redux-goal-app-back
 2. after you succesfuly launched it you need to clone this front-end.
 3. run commant npm init,
 4. run npm start 
+
+Admin:
+admin@gmail.com
+admin
