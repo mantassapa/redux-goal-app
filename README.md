@@ -11,5 +11,5 @@ Link: https://github.com/mantassapa/redux-goal-app-back
 4. run npm start 
 
 Admin:
-admin@gmail.com
-admin
+email: admin@gmail.com
+pass: admin
